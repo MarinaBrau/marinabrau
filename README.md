@@ -1,30 +1,32 @@
-# Oi, eu sou a Marina\!
+# Oi, eu sou a Marina! 👋
 
-Profissional de Dados focada em **engenharia de dados** e **analytics**, com experiencia em pipelines de extracao, transformacao e visualizacao de dados.
+Trabalho na interseção entre **dados**, **IA** e **produto** — construo desde pipelines de dados até aplicações web completas com inteligência artificial.
 
-## O que eu faco
+## O que eu faço
 
-- Construo **pipelines de dados** com Python e Google Cloud (Cloud Functions, GCS, BigQuery)
-- Crio **visualizacoes e dashboards** com Tableau e Python (Matplotlib, Seaborn)
-- Aplico **modelos de Machine Learning** para classificacao e analise preditiva
+- 🤖 Desenvolvo **aplicações com IA** usando Claude API, Streamlit e Python
+- 🌐 Construo **sites e portfólios** com Next.js, TypeScript e Tailwind
+- 📊 Crio **pipelines de dados** com BigQuery, GCP e automações de mídia paga
+- 🎮 Prototipo **jogos mobile** com Unity e C#
+
+## Projetos
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [AskQL](https://github.com/MarinaBrau/askql) | Assistente SQL com IA para analytics de marketing — linguagem natural para BigQuery | Python · Streamlit · Claude API |
+| [Canna Passport](https://github.com/MarinaBrau/canna-passport) | Guia digital bilíngue para turismo de cannabis legal no mundo | Next.js · MDX · Vercel |
+| [Kahmo Portfolio](https://github.com/MarinaBrau/website-portfolio) | Site de portfólio para agência criativa | Next.js · TypeScript · Tailwind |
+| [Screw Puzzle Game](https://github.com/MarinaBrau/app-screwproject) | Jogo mobile de puzzle — solte e organize parafusos | Unity · C# |
+| [Mushroom Classification](https://github.com/MarinaBrau/mushroom-classification) | Classificação de cogumelos com Machine Learning | Python · Scikit-learn |
+| [Data Visualization](https://github.com/MarinaBrau/python-data-visualization) | Análise exploratória e visualização de dados | Python · Pandas · Seaborn |
 
 ## Tecnologias
 
-**Linguagens:** Python, SQL
-**Cloud:** Google Cloud Platform (Cloud Functions, BigQuery, Cloud Storage, Secret Manager)
-**Dados:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-**Visualizacao:** Tableau
-**Ferramentas:** Git, Jupyter Notebook
-
-## Projetos em destaque
-
-| Projeto | Descricao |
-|---------|-----------|
-| [Prime Pipelines](https://github.com/marinabrau/prime-pipelines-main) | Pipeline de extracao de dados com Cloud Functions isoladas, GCS e BigQuery |
-| [Mushroom Classification](https://github.com/marinabrau/mushroom-classification) | Classificacao de cogumelos com ML usando Scikit-learn |
-| [Tableau Dashboard](https://github.com/marinabrau/tableau-sales-dashboard) | Dashboard de analise de dados no Tableau |
+**IA & Dados:** Python · SQL · BigQuery · GCP · Pandas · Scikit-learn  
+**Web:** Next.js · TypeScript · Tailwind · React · Vercel  
+**Outras:** Unity · C# · Streamlit · Git
 
 ## Contato
 
-[\![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-braune)
-[\![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:braunemarina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-braune)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:braunemarina@gmail.com)
