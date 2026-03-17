@@ -1,34 +1,34 @@
-# Oi, eu sou a Marina! 👋
+# Hi, I'm Marina! 👋
 
-Trabalho na interseção entre **dados**, **IA** e **produto** — construo desde pipelines de dados até aplicações web completas com inteligência artificial.
+I work at the intersection of **data**, **AI**, and **product** — building everything from data pipelines to full-stack web applications with artificial intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-braune)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:braunemarina@gmail.com)
 
-## O que eu faço
+## What I do
 
-- 🤖 Desenvolvo **aplicações com IA** usando Claude API, Streamlit e Python
-- 🌐 Construo **sites e produtos web** com Next.js, TypeScript e Tailwind
-- 📊 Crio **pipelines de dados** com BigQuery, GCP e automações de mídia paga
-- 🎮 Prototipo **jogos mobile** com Unity e C#
+- 🤖 Build **AI-powered applications** using Claude API, Streamlit, and Python
+- 🌐 Create **websites and web products** with Next.js, TypeScript, and Tailwind
+- 📊 Design **data pipelines** with BigQuery, GCP, and paid media automations
+- 🎮 Prototype **mobile games** with Unity and C#
 
-## Projetos em destaque
+## Featured Projects
 
-| Projeto | Descrição | Stack | Link |
-|---------|-----------|-------|------|
-| [ChatLore](https://github.com/MarinaBrau/chatlore) | Migrador de histórico de chat entre IAs — visualize e converta conversas | Next.js · Claude API · Tailwind | [chatlore.app](https://chatlore.app) |
-| [AskQL](https://github.com/MarinaBrau/askql) | Assistente SQL com IA para analytics de marketing — linguagem natural para BigQuery | Python · Streamlit · Claude API | [askql.streamlit.app](https://askql.streamlit.app) |
-| [Canna Passport](https://github.com/MarinaBrau/canna-passport) | Guia digital bilíngue para turismo de cannabis legal no mundo (24 países) | Next.js · MDX · next-intl | [canna-passport.com](https://www.canna-passport.com) |
-| [Kahmo Portfolio](https://github.com/MarinaBrau/website-portfolio) | Site de portfólio para agência criativa com filtros e formulário de contato | Next.js · TypeScript · Tailwind | [kahmoagportfolio.vercel.app](https://kahmoagportfolio.vercel.app) |
-| [Screw Puzzle Game](https://github.com/MarinaBrau/app-screwproject) | Jogo mobile de puzzle — solte e organize parafusos | Unity · C# | — |
-| [Mushroom Classification](https://github.com/MarinaBrau/mushroom-classification) | Classificação de cogumelos com Machine Learning | Python · Scikit-learn | — |
-| [Data Visualization](https://github.com/MarinaBrau/python-data-visualization) | Análise exploratória e visualização de dados | Python · Pandas · Seaborn | — |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [ChatLore](https://github.com/MarinaBrau/chatlore) | AI chat history migrator — visualize and convert conversations between platforms | Next.js · Claude API · Tailwind | [chatlore.app](https://chatlore.app) |
+| [AskQL](https://github.com/MarinaBrau/askql) | AI SQL assistant for marketing analytics — natural language to BigQuery | Python · Streamlit · Claude API | [askql.streamlit.app](https://askql.streamlit.app) |
+| [Canna Passport](https://github.com/MarinaBrau/canna-passport) | Multilingual digital guide to legal cannabis tourism worldwide (24 countries) | Next.js · MDX · next-intl | [canna-passport.com](https://www.canna-passport.com) |
+| [Kahmo Portfolio](https://github.com/MarinaBrau/website-portfolio) | Creative agency portfolio website with filters and contact form | Next.js · TypeScript · Tailwind | [kahmoagportfolio.vercel.app](https://kahmoagportfolio.vercel.app) |
+| [Screw Puzzle Game](https://github.com/MarinaBrau/app-screwproject) | Mobile puzzle game — drop and sort screws | Unity · C# | — |
+| [Mushroom Classification](https://github.com/MarinaBrau/mushroom-classification) | Mushroom classification with Machine Learning | Python · Scikit-learn | — |
+| [Data Visualization](https://github.com/MarinaBrau/python-data-visualization) | Exploratory data analysis and visualization | Python · Pandas · Seaborn | — |
 
-## Tecnologias
+## Technologies
 
-**IA & Dados:** Python · SQL · BigQuery · GCP · Pandas · Scikit-learn · Claude API
+**AI & Data:** Python · SQL · BigQuery · GCP · Pandas · Scikit-learn · Claude API
 **Web:** Next.js · TypeScript · Tailwind · React · Vercel · MDX
-**Outras:** Unity · C# · Streamlit · Docker · Git
+**Other:** Unity · C# · Streamlit · Docker · Git
 
 ---
 
